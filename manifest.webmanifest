@@ -1,14 +1,14 @@
 {
-  "name": "Английский к июню",
+  "name": "Английский",
   "short_name": "Английский",
-  "description": "Трекер занятий английским с 19 октября по 6 июня",
+  "description": "Трекер занятий английским: план, отметки, цель и прогресс",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#EDF0F5",
-  "theme_color": "#EDF0F5",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "icons": [
     {
       "src": "icon-192.png",
